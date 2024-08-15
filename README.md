@@ -723,6 +723,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![MkDocs](https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) | `[![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#)` |
 | [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#)` |
 | [![Pelican](https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff)](#) | `[![Pelican](https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff)](#)` |
+| [![Retool](https://img.shields.io/badge/Retool-black?logo=retool&logoColor=fff)](#) | `[![Retool](https://img.shields.io/badge/Retool-black?logo=retool&logoColor=fff)](#)` |
+
 
 <div align="right">
 
